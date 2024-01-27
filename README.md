@@ -1,4 +1,4 @@
 # GitDemo
 This is my First Demo Repository
 <br>
-Author :Adithya Shivarashi
+Author :Adithya Shivarashi Adithya
